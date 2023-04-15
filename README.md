@@ -65,6 +65,9 @@
           </a>
        </p>
      <br>
+     <a href="github.com/1999AZZAR" target="blank"><img align="center" 
+     src="https://komarev.com/ghpvc/?username=Pabasaraa&color=yellow&style=for-the-badge&label=PROFILE+VIEWS" height="25"
+     alt="views count" /></a>
      </samp>
   </div>    
 </details>

@@ -1,20 +1,19 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Pabasara</h1>
-<h4 align="center">Software Engineering Undergraduate at Sri Lanka Institue of Information Technology</h4>
+<h1 align="center">Hi 👋, I'm Sandalu Withana</h1>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E7334&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;have+high+creativity;Able+to+work+in+team+or+individual+" alt="Typing SVG" /></a></p>
 </div>
 
 <div align="center">
-  <a href="https://github.com/Pabasaraa?tab=repositories">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
 </div>
 
 -----
-<details>
-  <summary>☎️ contact me</summary>
 <div>
   <samp>
     <h2 align="center">Let's stay in touch!</h2>
@@ -35,16 +34,12 @@
     </p>
   </samp>
 </div>
-</details>
   
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
   <div>
   <samp>
     <h2 align="center"> Github stats </h2>
       <br/>
-    <details open>
-  <summary><h3>Languages</h3></summary>
+  <h3>Languages</h3>
             <p align="center">
         <a href="https://github.com/Pabasaraa/">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pabasaraa&langs_count=6&theme=gotham&layout=compact&hide_border=true"
@@ -58,9 +53,8 @@
           alt="Pabasaraa :: Top Langs by commit" />
           </a>
         </p>
-</details>
-    <details open>
-  <summary><h3>stasistic</h3></summary>
+      
+  <h3>stasistic</h3>
         <p align="center">
           <a href="https://github.com/Pabasaraa/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Pabasaraa&show_icons=true&theme=gotham&hide_border=true" />
@@ -73,16 +67,3 @@
      alt="views count" /></a>
      </samp>
   </div>    
-</details>
-
-<details>
-  <summary>📈 Latest Activity Graph</summary>
-  <samp>
-  <br/>
-  <h2 align="center"> latest contribution </h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="azzar's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Pabasaraa&theme=github-compact" /></a>
-<br/>
-  </samp>
-  </details>
-  <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E7334&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;have+high+creativity;Able+to+work+in+team+or+individual+" alt="Typing SVG" /></a></p>

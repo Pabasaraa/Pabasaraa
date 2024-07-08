@@ -2,17 +2,15 @@
 <h1 align="center">Hi 👋, I'm Sandalu Withana</h1>
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E7334&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;have+high+creativity;Able+to+work+in+team+or+individual+" alt="Typing SVG" /></a></p>
 </div>
-
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
-
-_generated with [Platane/snk](https://github.com/Platane/snk)_
 </div>
 
+<br/>
 <div>
   <samp>
     <h2 align="center">Let's stay in touch!</h2>
@@ -33,6 +31,8 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
     </p>
   </samp>
 </div>
+
+<br/>
   
   <div>
   <samp>

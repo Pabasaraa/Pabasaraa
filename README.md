@@ -13,7 +13,6 @@
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 </div>
 
------
 <div>
   <samp>
     <h2 align="center">Let's stay in touch!</h2>

@@ -16,7 +16,7 @@
     <h2 align="center">Let's stay in touch!</h2>
     <p align="center">
       <br/>
-      <a href="https://www.linkedin.com/in/pabasara-withana-4866601b6/" target="blank"><img align="center"
+      <a href="https://www.linkedin.com/in/sandalu-withana-4866601b6/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="azzar" height="30"/></a>
       <a href="mailto:pabasara.was@gmail.com" target="blank"><img align="center"
